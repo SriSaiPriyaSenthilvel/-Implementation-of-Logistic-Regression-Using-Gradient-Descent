@@ -9,7 +9,11 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1.Import the data file and import numpy, matplotlib and scipy.
-2.Visulaize the data and define the sigmoid function, cost function and gradient descent. 3.Plot the decision boundary.
+
+2.Visulaize the data and define the sigmoid function, cost function and gradient descent.
+
+3.Plot the decision boundary.
+
 4.Calculate the y-prediction.
 
 ## Program:
