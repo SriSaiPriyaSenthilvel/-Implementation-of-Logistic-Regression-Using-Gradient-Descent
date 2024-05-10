@@ -51,7 +51,8 @@ dataset["specialisation"]=dataset["specialisation"].cat.codes
 dataset["status"]=dataset["status"].cat.codes
 dataset["hsc_s"]=dataset["hsc_s"].cat.codes
 dataset
-
+```
+```
 x=dataset.iloc[:, :-1].values
 y=dataset.iloc[: ,-1].values
 y
