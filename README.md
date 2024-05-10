@@ -41,7 +41,8 @@ dataset["specialisation"]=dataset["specialisation"].astype('category')
 dataset["status"]=dataset["status"].astype('category')
 dataset["hsc_s"]=dataset["hsc_s"].astype('category')
 dataset.dtypes
-
+```
+```
 dataset["gender"]=dataset["gender"].cat.codes
 dataset["ssc_b"]=dataset["ssc_b"].cat.codes
 dataset["hsc_b"]=dataset["hsc_b"].cat.codes
@@ -51,12 +52,9 @@ dataset["specialisation"]=dataset["specialisation"].cat.codes
 dataset["status"]=dataset["status"].cat.codes
 dataset["hsc_s"]=dataset["hsc_s"].cat.codes
 dataset
-```
-```
 x=dataset.iloc[:, :-1].values
 y=dataset.iloc[: ,-1].values
 y
-
 theta=np.random.randn(x.shape[1])
 Y=y
 def sigmoid(z):
