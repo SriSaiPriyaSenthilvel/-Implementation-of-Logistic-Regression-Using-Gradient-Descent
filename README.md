@@ -100,11 +100,9 @@ print(y_prednew)
 
 ![324399700-7c6baca2-7393-458e-a884-4978fb80e3ad](https://github.com/SriSaiPriyaSenthilvel/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475702/99b42bb6-4603-4c7d-a00b-7eabc1cbf6e0)
 
-![324399320-5a384226-2ec4-4de4-b443-4ab582ca4f8b](https://github.com/SriSaiPriyaSenthilvel/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475702/0e234756-9260-410b-86b4-baf20892627d)
+![image](https://github.com/SriSaiPriyaSenthilvel/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475702/42430aeb-75d7-49a3-b5ed-26e48e03ad50)
 
-![324399841-f8e30592-be3f-41b8-8939-08d2a35cff8f](https://github.com/SriSaiPriyaSenthilvel/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475702/369895ff-11ee-4368-8a1a-c361301b70aa)
-
-![324400040-d11e4a1f-31cc-4c11-9a92-3476263b2974](https://github.com/SriSaiPriyaSenthilvel/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475702/78b1c73d-70d7-4baa-af4a-1522b11d3055)
+![image](https://github.com/SriSaiPriyaSenthilvel/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119475702/cb938aa3-ccb1-4a16-b0f4-ac37a6f21a56)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
